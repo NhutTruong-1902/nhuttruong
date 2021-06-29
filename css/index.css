@@ -1,0 +1,101 @@
+body {
+  font-family: arial;
+  background-color: #171717;
+  color: white;
+}
+
+#lang a {
+  text-decoration: none;
+  color: black;
+}
+
+#lang button {
+  margin-right: 10px;
+}
+
+#topl {
+  width: 40%;
+  height: 130px;
+  float: left;
+}
+
+#topl p{
+  text-align: right;
+}
+
+#topr {
+  width: 60%;
+  height: 130px;
+  float: left;
+}
+
+#topr p {
+  margin-left: 30px;
+}
+
+#ttcn table{
+  width: 100%;
+}
+
+#ttcnl {
+  width: 35%;
+  text-align: right;
+  border-bottom: 1px solid #5c5c5c;
+  padding: 10px;
+}
+
+
+#ttcnr {
+  width: 65%;
+  border-bottom: 1px solid #5c5c5c;
+  padding: 10px;
+}
+
+#ttcnr p{
+  margin-left: 30px;
+}
+
+#ttlh table{
+  width: 100%;
+}
+
+#ttlhl {
+  width: 45%;
+  text-align: right;
+  border-bottom: 1px solid #5c5c5c;
+  padding: 10px;
+}
+
+
+#ttlhr {
+  width: 55%;
+  border-bottom: 1px solid #5c5c5c;
+  padding: 10px;
+}
+
+#ttlh a{
+  text-decoration: none;
+  color: white;
+}
+
+#ttlhr p{
+  margin-left: 30px;
+}
+
+#ttlhc {
+  width: 100%;
+  border-bottom: 1px solid #5c5c5c;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#ttlhc img{
+  width: 25px;
+  height: 25px;
+}
+
+button {
+  border-radius: 10px;
+  background-color: #91ffcc;
+}
